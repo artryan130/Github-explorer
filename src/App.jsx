@@ -1,4 +1,6 @@
+import './styles/global.css'
+
 export function App() {
 
-    return <h1>Hello ReactJS</h1>
+    return <h1>Hello ReactJSX</h1>
 }
