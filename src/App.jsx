@@ -1,7 +1,7 @@
-import { RespositoryList } from './components/RespositoryList'
+import { RepositoryList } from './components/RepositoryList'
 import './styles/global.scss'
 
 export function App() {
 
-    return <RespositoryList></RespositoryList>
+    return <RepositoryList></RepositoryList>
 }
